@@ -1,0 +1,19 @@
+call pathogen#infect()
+filetype off
+syntax on
+filetype plugin indent on
+syntax on
+set nu
+set tabstop=4
+set softtabstop=4
+set expandtab
+set number
+set showcmd
+set cursorline
+set wildmenu
+set showmatch
+set hlsearch
+set incsearch
+set foldenable
+set foldlevelstart=10
+set foldnestmax=10
